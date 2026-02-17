@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content from User B (CONFLICT!)
+=======
+Content from User A
+>>>>>>> 86418c8 (feat: adiciona arquivo de exemplo e atualiza .gitignore)
